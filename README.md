@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Isis Noronha! 
 
-- 🔭 Sou Desenvolvedora Front-End Jr, na RaiaDrogasil. 
+- 🔭 Sou Desenvolvedora Front-End Jr.
 - 📚 Graduada da 6ª geração da [< Laboratoria >](https://www.laboratoria.la/br).
 - ⚖  Formada em Direito pela faculdade UNISEPE.
 - 📫 Você pode me encontrar em:
