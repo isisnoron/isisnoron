@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Isis Noronha! 
 
-- 🔭 Sou Desenvolvedora Front-End Jr.
-- 📚 Graduada da 6ª geração da [< Laboratoria >](https://www.laboratoria.la/br).
-- ⚖  Formada em Direito pela faculdade UNISEPE.
+- 🔭 Sou Desenvolvedora Front-End.
 - 📫 Você pode me encontrar em:
 <div align="center">
   <a href = "mailto:isisbeatrizrn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
